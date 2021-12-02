@@ -209,10 +209,11 @@
 
         <!-- Menyisipkan library Google Maps -->
 
-        <script
+<!--        <script
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA50rFMPpGOI4Nuryv0t9VgAJm7bZ_9szA&callback=initMap&v=weekly"
             async
-        ></script>
+        ></script>-->
+        
         <script>
             //navigasi        
             window.onscroll = function () {
@@ -930,6 +931,10 @@
                 window.location.href = "avaibility.jsp";
             }
 
+        </script>
+        <script
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA50rFMPpGOI4Nuryv0t9VgAJm7bZ_9szA&callback=initMap"
+            async defer>
         </script>
 
     </body>
