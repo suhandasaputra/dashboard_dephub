@@ -99,8 +99,9 @@
         </style>
     </head>
     <body>
-        <script src="//unpkg.com/vue/dist/vue.js"></script>
-        <script src="//unpkg.com/element-ui@2.15.6/lib/index.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <!--<script src="https//unpkg.com/vue/dist/vue.js"></script>-->
+        <script src="https://unpkg.com/element-ui@2.15.6/lib/index.js"></script>
         <!--navbar atas start-->
         <nav class="navbar navbar-expand-md navbar-dark header" style="background-color: #28a8e0 !important; height: 90px; border-top: 2px solid gold">
             <div class="container-fluid">
